@@ -11,8 +11,8 @@
     "url": "git+https://github.com/laplace1984/zenn-contents.git"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "laplace1984",
+  "license": "MIT",
   "packageManager": "pnpm@7.29.1",
   "bugs": {
     "url": "https://github.com/laplace1984/zenn-contents/issues"
