@@ -13,11 +13,13 @@ published: true
 - ログレベルも環境変数で上書きできる
 
 ## 試した環境
-1. SpringBoot 2.7.5
-2. Gradle 7.5.1
-3. Java 11 (Gradle用)
-4. Kotlin 1.7.10
-5. logback
+| 環境 | バージョン |
+| :-- | :-- |
+| SpringBoot | 2.7.5 |
+| gradle | 7.5.1 |
+| Java (gradle実行用) | 11 |
+| Kotlin | 1.7.10 |
+| logback | SpringBoot 付属 |
 
 ## 始めに
 SpringBoot のログ設定の **一部**[^2] はアプリケーションプロパティファイル (`application.yml` / `application.properties`) で設定できます
