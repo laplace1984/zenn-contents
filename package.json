@@ -18,7 +18,7 @@
     "url": "https://github.com/laplace1984/zenn-contents/issues"
   },
   "homepage": "https://github.com/laplace1984/zenn-contents#readme",
-  "dependencies": {
+  "devDependencies": {
     "zenn-cli": "^0.1.141"
   }
 }

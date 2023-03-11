@@ -3,7 +3,7 @@ lockfileVersion: 5.4
 specifiers:
   zenn-cli: ^0.1.141
 
-dependencies:
+devDependencies:
   zenn-cli: 0.1.141
 
 packages:
@@ -12,4 +12,4 @@ packages:
     resolution: {integrity: sha512-33hYqqHZk9nYP24Za56jeFcqXsPkoYno9HDsIjdUjQxzl3/zmRaJEiHJ3qD4IId6qNduY3Vhgq3s6kJuCDVuVQ==}
     engines: {node: '>=14.0.0'}
     hasBin: true
-    dev: false
+    dev: true
