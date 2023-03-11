@@ -13,11 +13,12 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "packageManager": "pnpm@7.29.1",
   "bugs": {
     "url": "https://github.com/laplace1984/zenn-contents/issues"
   },
   "homepage": "https://github.com/laplace1984/zenn-contents#readme",
   "dependencies": {
-    "zenn-cli": "^0.1.110"
+    "zenn-cli": "^0.1.141"
   }
 }
