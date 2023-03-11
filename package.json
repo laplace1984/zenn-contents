@@ -13,6 +13,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "packageManager": "pnpm@7.29.1",
   "bugs": {
     "url": "https://github.com/laplace1984/zenn-contents/issues"
   },
