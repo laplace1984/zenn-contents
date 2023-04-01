@@ -2,7 +2,7 @@
   "extends": ["config:base"],
   "timezone": "Asia/Tokyo",
   "schedule": ["every weekend"],
-  "labels": "dependencies",
+  "labels": ["dependencies"],
   "patch": {
     // パッチバージョンの自動マージはOK
     "automerge": true
