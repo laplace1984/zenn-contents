@@ -13,12 +13,17 @@
   "keywords": [],
   "author": "laplace1984",
   "license": "MIT",
-  "packageManager": "pnpm@7.29.1",
+  "packageManager": "pnpm@8.1.0",
   "bugs": {
     "url": "https://github.com/laplace1984/zenn-contents/issues"
   },
   "homepage": "https://github.com/laplace1984/zenn-contents#readme",
   "devDependencies": {
     "zenn-cli": "^0.1.141"
+  },
+  "engines": {
+    "node": "^18.15.0",
+    "npm": "use pnpm",
+    "yarn": "use pnpm"
   }
 }
