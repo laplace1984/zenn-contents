@@ -48,7 +48,7 @@ flyway {
     user = "postgres"
     password = "postgres"
     defaultSchema = "public"
-    // jOOQ の除外対象とするため、テーブル名を固定する
+    // テーブル名を明示的に設定
     table = "flyway_schema_history"
     loggers = arrayOf("auto")
 
