@@ -20,5 +20,10 @@
   "homepage": "https://github.com/laplace1984/zenn-contents#readme",
   "devDependencies": {
     "zenn-cli": "^0.1.141"
+  },
+  "engines": {
+    "node": "^18.15.0",
+    "npm": "use pnpm",
+    "yarn": "use pnpm"
   }
 }
