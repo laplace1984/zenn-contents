@@ -13,7 +13,7 @@
   "keywords": [],
   "author": "laplace1984",
   "license": "MIT",
-  "packageManager": "pnpm@8.15.5",
+  "packageManager": "pnpm@8.15.6",
   "bugs": {
     "url": "https://github.com/laplace1984/zenn-contents/issues"
   },
