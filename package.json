@@ -22,7 +22,7 @@
     "zenn-cli": "^0.1.141"
   },
   "engines": {
-    "node": "^20.0.0",
+    "node": "^22.0.0",
     "npm": "use pnpm",
     "yarn": "use pnpm"
   }
