@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/laplace1984/zenn-contents#readme",
   "devDependencies": {
-    "zenn-cli": "^0.1.141"
+    "zenn-cli": "^0.2.0"
   },
   "engines": {
     "node": "^22.0.0",
